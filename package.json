@@ -1,0 +1,19 @@
+{
+  "name": "login-test-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "jsonwebtoken": "^5.4.0",
+    "koa": "^1.1.0",
+    "koa-bodyparser": "^2.0.1",
+    "koa-force-ssl": "0.0.5",
+    "koa-router": "^5.2.3"
+  }
+}
